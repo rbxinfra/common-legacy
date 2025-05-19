@@ -1,0 +1,7 @@
+﻿<Project Sdk="Microsoft.NET.Sdk">
+  <PropertyGroup>
+        <Description>Common utilities for Roblox applications.</Description>
+
+        <Version>1.2.4</Version>
+  </PropertyGroup>
+</Project>
